@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saikumar2129
 - 👀 I’m interested in programmin and developing front end applications
-- 🌱 I’m currently learning HTML amd CSS
+- 🌱 I have knowledge on web development
 - 💞️ I’m looking to collaborate on any MNC
 - 📫 How to reach me ...drop a mail on swarnapudi.sssk@gmail.com
 
