@@ -1,7 +1,7 @@
 # 👋 Hi, I’m SAIKUMAR SWARNAPUDI
 Phone: (+91) 76748 78414
 Email: swarnapudi.sssk@gmail.com
-LinkedIn: LinkedIn Profile
+LinkedIn: https://linkedin.com/in/saikumarswarnapudi/
 
 ## Objective
 A motivated individual with in-depth knowledge of languages and development tools. As a motivated and adaptable learner, I aim to leverage my technical skills and passion for innovation to make meaningful contributions to the engineering field and advance my career in academia and industry.
