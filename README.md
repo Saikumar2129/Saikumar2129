@@ -70,6 +70,8 @@ As a Student Coordinator at Chandigarh University, conducted numerous hackathons
 ## Certifications
 Academic Writing Skills and IPR (LinkedIn Learning • 02/2023 - 03/2024)
 
+Introduction to Generative AI (Google Cloud • JUL 2024)
+
 Google Cloud Career Readiness Cloud Digital Leader Track (Google • 01/2023 - 04/2023)
 
 Innovation Through Design: Think, Make, Break, Repeat (University of Sydney • 02/2023 - 04/2023)
