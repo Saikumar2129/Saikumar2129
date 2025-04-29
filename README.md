@@ -1,6 +1,6 @@
 # 👋 Hi, I’m SAIKUMAR SWARNAPUDI
 Phone: (+91) 76748 78414
-Email: swarnapudi.sssk@gmail.com
+Email: sharewithsaikumar@gmail.com
 LinkedIn: https://linkedin.com/in/saikumarswarnapudi/
 
 ## Objective
